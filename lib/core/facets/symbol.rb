@@ -1,6 +1,5 @@
 require_relative 'symbol/as_s.rb'
 require_relative 'symbol/bang.rb'
-require_relative 'symbol/call.rb'
 require_relative 'symbol/chomp.rb'
 require_relative 'symbol/generate.rb'
 require_relative 'symbol/not.rb'
